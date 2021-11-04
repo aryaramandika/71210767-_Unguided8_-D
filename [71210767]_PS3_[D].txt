@@ -1,0 +1,6 @@
+rumus faktorial 
+n! = n.(n-1) . (n-2) . (n-3)...1
+If n sama dengan 1 dan lebih dari 1
+	maka n dikalikan dengan n yang dikurangi hingga mendapatkan hasil 1
+else
+	n sama dengan 0 maka "ERROR"
